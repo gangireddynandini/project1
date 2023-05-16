@@ -1,0 +1,28 @@
+.container {
+
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+
+}
+
+body {
+    background-color: rgb(61, 61, 149);
+}
+
+h1 {
+
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50 px;
+    color: chartreuse;
+}
+
+p {
+    font-size: 20px;
+    color: aquamarine;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
